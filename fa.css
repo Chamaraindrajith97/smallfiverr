@@ -1,0 +1,98 @@
+/**
+* https://www.emeraldtrianglecannabis.com/store (Custom CSS)
+* @author chamara2536
+* @fiverr https://www.fiverr.com/users/chamara2536/
+* @version 0.1
+*/
+
+/* ============================ RESET ============================ */
+
+/* ===== Custom CSS ===== */
+
+/* https://www.emeraldtrianglecannabis.com/store
+   v0.1 | 2020/08/27
+*/
+
+/*Blaze api css*/
+:rootsf {
+    --go-meta--color--text: var(--go--color--primary);
+    --wp-block-coblocks-food-item--heading--font-weight: 700;
+    --editor-max-w-base: 702px;
+    --editor-max-w-wide: 1134px;
+}
+
+
+/*Products Cards*/
+.RetailConnect-product_main {
+        width: 373px !important;
+}
+
+
+/*Font Price*/
+.RetailConnect-cardProducts .Card span {
+    font-size: 42px;
+}
+
+
+/*Font Price Mobile*/
+@media (max-width: 767px){
+.RetailConnect-cardProducts .Card p span {
+    font-size: 28px !important;
+    font-weight: bold;
+}}
+
+
+/*@media (max-width: 320px){*/
+/*.RetailConnect-cardProducts .Card p {*/
+/*    font-size: 28px !important;*/
+/*    font-weight: bold;*/
+/*}*/
+/*}*/
+/*@media (max-width: 767){*/
+/*.RetailConnect-cardProducts .Card p {*/
+/*    font-size: 28px !important;*/
+/*    font-weight: bold;*/
+/*}*/
+/*}*/
+/*Font Name*/
+
+
+.RetailConnect-cardProducts .Card h4 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+/*Font Name2*/
+.h5, h5 {
+    font-size: 1.2em;
+}
+
+
+/*Color Changes*/
+.finds {
+    /*--go-site-description--color--text: var(--go--color--primary);*/
+    /*--go-site-description--opacity: 1;*/
+    /*--go-navigation--color--text: var(--go--color--primary);*/
+    /*--go-navigation--font-family: "Karla",sans-serif;*/
+    /*--go-navigation--font-family: var(--go--font-family);*/
+    /*--go-navigation--font-size: 1rem;*/
+    /*--go-navigation--letter-spacing: 1px;*/
+    /*--go-navigation--padding--x: 1.5vw;*/
+    /*--go-navigation--text-transform: lowercase;*/
+    /*--go-navigation-mobile--font-size: 1.75rem;*/
+    /*--go-search-button--color--text-interactive: var(--go--color--primary);*/
+    /*--go-search-button--color--text-interactive: var(--go--color--text);*/
+    /*--go-search-button--color--background: var(--go--color--primary);*/
+    /*--go-search-button--color--background-interactive: var(--go--color--primary);*/
+    /*--go-search-button--color--background-interactive: var(--go--color--text);*/
+    /*--go-footer--color--text: var(--go--color--primary);*/
+    /*--go-footer-navigation--color--text: var(--go--color--primary);*/
+    /*--go-footer-navigation--color--text: var(--go-heading--color--text);*/
+    /*--go-footer-3--border-color: 0,0,100%;*/
+    /*--go-footer-3--border-color: "";*/
+    /*--go-footer-3--border-color: var(--go-header--color--background,var(--go--color--background,0,0,100%));*/
+    /*--go-footer-3--border-width: 10px;*/
+    /*--go-social--padding: 0.5rem;*/
+    /*--go-social--size: 1.5rem;*/
+}
