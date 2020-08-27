@@ -8,8 +8,12 @@ html, body {
     height: 275%;
   }
 }
-
-
  .container {
         height: 100%;
+}
+
+
+/* headerimage */
+.headerimagediv {
+        height:80%;
 }
