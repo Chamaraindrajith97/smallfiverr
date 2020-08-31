@@ -145,7 +145,17 @@ input.c-input-front {
    font-style:italic;
    /*margin-top: -7px;*/
    font-weight: 100;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+   margin-top: 310px;
 }
+@media only screen and (max-width: 680px){
+    .energytxt1 {
+    margin-top: 154px;
+    }
+}
+    
 .login-left {
       background: rgb(67,186,102);
 background: linear-gradient(90deg, rgba(67,186,102,1) 0%, rgba(150,212,89,1) 55%, rgba(220,246,36,1) 100%);
@@ -225,3 +235,12 @@ background: linear-gradient(90deg, rgba(255,71,139,1) 0%, rgba(254,112,110,1) 55
   font-size: 2em;
   text-align: center;
 }
+.wastetxt2 {
+    color: #EC572C !important;
+      padding-top: 16px;
+}
+.humanitariantxt {
+    color: #EC572C !important;
+    padding-top: 42px;
+}
+    
