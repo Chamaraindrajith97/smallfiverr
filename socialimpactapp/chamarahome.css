@@ -1,0 +1,48 @@
+.whatsspan1 {
+        color: #EC572C;
+}
+.icoscham {
+    width: 77px !important; 
+}
+/*.container .three.columns {*/
+/*    width: 31% !important;*/
+/*}*/
+/*.h6down {*/
+/*    font-size:18px !important;*/
+/*}*/
+/*.container .eight.columns {*/
+/*    width: 299px !important;*/
+/*}*/
+/*.foundersname {*/
+/*        font-size: 19px  !important;*/
+/*}*/
+
+/*.singleproject-top1 {*/
+/*    position: relative;*/
+/*    width: 100%;*/
+/*    background: url(/images/classy_fabric.png) repeat;*/
+/*    padding-top: 27px;*/
+/*}*/
+/*ul#menu li {*/
+/*  display:inline;*/
+/*}*/
+.founders-heading {
+    font-size:17px !important; 
+    font-weight:bold !important;
+}
+
+    .founders-area1 {
+        display:flex;
+        justify-content: center;
+        flex-direction:raw;
+    }
+@media only screen and (max-width: 600px) {
+    .founders-area1 {
+        display:flex;
+        justify-content: center;
+        flex-direction:column;
+    }
+}
+    
+    
+    
