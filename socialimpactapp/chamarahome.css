@@ -43,6 +43,10 @@
         flex-direction:column;
     }
 }
-    
+    .founders {
+        style="float: left;
+        width: 30.33%;
+        padding: 10px;"
+    }    
     
     
