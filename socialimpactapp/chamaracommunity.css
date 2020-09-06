@@ -243,4 +243,12 @@ background: linear-gradient(90deg, rgba(255,71,139,1) 0%, rgba(254,112,110,1) 55
     color: #EC572C !important;
     padding-top: 42px;
 }
-    
+
+    		    .leaderboard-iframe {
+		        height:300px;
+		    }
+		    @media only screen and (max-width: 600px) {
+		        		    .leaderboard-iframe {
+		        height: 761px;
+		    }
+		    }
