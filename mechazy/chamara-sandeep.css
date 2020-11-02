@@ -1,0 +1,158 @@
+
+    .blue-box {
+        border-bottom: 50px solid #0A3041;
+        height: 0;
+        width: 100%;
+        position: relative;
+
+    }
+    .blue-box2 {
+        background-color: #0A3041;
+        color: white;
+        font-weight: bold;
+        padding:20px;
+    }
+    .trapezoid {
+        border-bottom: 50px solid  #1167b1;
+        border-right: 82px solid transparent;
+        height: 0;
+        width: 65%;
+        position: relative;
+        opacity: 80%;
+        
+    }
+    .title-2 {
+        position: absolute;
+        margin-top: 14px;
+        margin-left: 20px;
+        color: white;
+        font-family: sans-serif;
+        font-weight: bold;
+        /* font-size: 20px; */
+    }
+    .title-3 {
+        position: absolute;
+        margin-top: 14px;
+        margin-left: 20px;
+        color: white;
+        font-family: sans-serif;
+        /* font-weight: bold; */
+        /* font-size: 20px; */
+    }
+    .inside-container {
+        margin-left:50px
+    }
+    .section{
+        color: white;
+    }
+    .lightblue-box {
+        background-color: #1167b1;
+        opacity: 80%;
+    }
+    .img-boxes {
+        margin: 35px;
+        cursor: pointer;
+    }
+    .pop:hover {
+      opacity: 80%;
+    }
+    .background-body-service-details {
+      /* background-image: url(https://mechazy.com/files/Mech-Design-back.jpg); */
+      background-size: cover;
+      background-repeat: no-repeat;
+      font-family: sans-serif;
+    }
+    .blue-box-title {
+      opacity: 80%;
+    }
+
+
+
+
+
+
+
+
+    .thani-nil-kotuwa {
+      color: white;
+      padding:20px;
+    }
+    .images-hari-lakunu {
+      line-height: 0.3; 
+      color:white;
+    }
+    .images-class-eka {
+      width: 120px;
+      height: 80px
+    }
+    .project-wisthara-list {
+      line-height: 0.8;
+    }
+    .modal-image-width-eka {
+      width: 100%
+    }
+
+
+
+
+
+
+
+
+
+        .collapsible {
+          background-color: #777;
+          color: white;
+          cursor: pointer;
+          /* padding: 18px; */
+          /* width: 100%; */
+          border: none;
+          text-align: left;
+          outline: none;
+          font-size: 15px;
+
+          border-bottom: 50px solid #0A3041;
+          height: 0;
+          position: relative;
+        }
+
+        .collapsible1 {
+          background-color: #777;
+          color: white;
+          cursor: pointer;
+          /* padding: 18px; */
+          /* width: 100%; */
+          border: none;
+          text-align: left;
+          outline: none;
+          font-size: 15px;
+
+          border-bottom: 50px solid #0A3041;
+          height: 0;
+          position: relative;
+        }
+        
+        .active1, .collapsible:hover {
+          background-color: #555;
+        }
+        .active1, .collapsible1:hover {
+          background-color: #555;
+        }
+        .active1:hover {
+        opacity: 80%;
+        }
+        .collapsible:hover {
+          opacity: 80%;
+        }
+        .content1 {
+          padding: 0 18px;
+          display: none;
+          overflow: hidden;
+        }
+        .content ori {
+          padding: 0 18px;
+          display: none;
+          overflow: hidden;
+        }
+
+ 
